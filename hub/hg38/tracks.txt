@@ -1,0 +1,24 @@
+
+track GTEX_exons
+type bigBed
+bigDataUrl hg38/GTEX_exons.bb
+itemRgb	on
+visibility 0
+shortLabel GTEX_exons
+longLabel GTEX_exons
+
+track TCGA_exons
+type bigBed
+bigDataUrl hg38/TCGA_exons.bb
+itemRgb	on
+visibility 0
+shortLabel TCGA_exons
+longLabel TCGA_exons
+
+track CHX_exons
+type bigBed
+bigDataUrl hg38/CHX_exons.bb
+itemRgb	on
+visibility 0
+shortLabel CHX_exons
+longLabel CHX_exons

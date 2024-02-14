@@ -1,0 +1,5 @@
+hub NExon
+shortLabel NExon
+longLabel NExon
+genomesFile genomes.txt
+email smargasyuk@gmail.com
