@@ -1,7 +1,7 @@
 
 track GTEX_exons
 type bigBed
-bigDataUrl GTEX_exons.bed
+bigDataUrl GTEX_exons.bb
 itemRgb	on
 visibility 0
 shortLabel GTEX_exons
@@ -9,7 +9,7 @@ longLabel GTEX_exons
 
 track TCGA_exons
 type bigBed
-bigDataUrl TCGA_exons.bed
+bigDataUrl TCGA_exons.bb
 itemRgb	on
 visibility 0
 shortLabel TCGA_exons
@@ -17,7 +17,7 @@ longLabel TCGA_exons
 
 track CHX_exons
 type bigBed
-bigDataUrl CHX_exons.bed
+bigDataUrl CHX_exons.bb
 itemRgb	on
 visibility 0
 shortLabel CHX_exons
